@@ -357,3 +357,22 @@ Information Science  Engineering Student
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 **Review Intelligence — Turning customer feedback into business decisions.**
+
+## 📸 Project Screenshots
+
+### 🏠 Review Intelligence Dashboard
+
+![Review Intelligence Dashboard](Screenshot%202026-08-23%20144156.png)
+
+### 📊 Sentiment & Customer Analysis
+
+![Sentiment and Customer Analysis](Screenshot%202026-08-23%20144444.png)
+
+### 🎯 Topic & Problem Intelligence
+
+![Topic and Problem Intelligence](Screenshot%202026-08-23%20144531.png)
+
+### 💡 Business Insights & Recommendations
+
+![Business Insights and Recommendations](Screenshot%202026-08-23%20144636.png)
+
