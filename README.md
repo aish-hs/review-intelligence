@@ -299,7 +299,7 @@ Example:
 GOOGLE_API_KEY=your_api_key_here
 ```
 
-**Never upload ****`.env`**** or API keys to GitHub.**
+**Never upload `.env` or API keys to GitHub.**
 
 The project uses `.gitignore` to prevent sensitive files from being committed.
 
@@ -348,7 +348,7 @@ Potential future enhancements include:
 
 **Aishwarya H S**
 
-Information Science  Engineering Student
+Information Science Engineering Student
 
 ---
 
@@ -358,28 +358,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 **Review Intelligence — Turning customer feedback into business decisions.**
 
-## 📸 Project Screenshots
-
-### 🏠 Review Intelligence Dashboard
-
-![Review Intelligence Dashboard](dashboard.png)
-
-### 📊 Sentiment & Customer Analysis
-
-![Sentiment and Customer Analysis](sentiment-analysis.png)
-
-### 🎯 Topic & Problem Intelligence
-
-![Topic and Problem Intelligence](topic-analysis.png)
-
-### 💡 Business Insights & Recommendations
-
-![Business Insights and Recommendations](business-insights.png)
-
-
-![Topic and Problem Intelligence](Screenshot%202026-08-23%20144531.png)
-
-### 💡 Business Insights & Recommendations
-
-![Business Insights and Recommendations](Screenshot%202026-08-23%20144636.png)
 
