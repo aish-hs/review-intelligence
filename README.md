@@ -362,13 +362,20 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 ### 🏠 Review Intelligence Dashboard
 
-![Review Intelligence Dashboard](Screenshot%202026-08-23%20144156.png)
+![Review Intelligence Dashboard](dashboard.png)
 
 ### 📊 Sentiment & Customer Analysis
 
-![Sentiment and Customer Analysis](Screenshot%202026-08-23%20144444.png)
+![Sentiment and Customer Analysis](sentiment-analysis.png)
 
 ### 🎯 Topic & Problem Intelligence
+
+![Topic and Problem Intelligence](topic-analysis.png)
+
+### 💡 Business Insights & Recommendations
+
+![Business Insights and Recommendations](business-insights.png)
+
 
 ![Topic and Problem Intelligence](Screenshot%202026-08-23%20144531.png)
 
