@@ -167,7 +167,14 @@ review-intelligence/
 ├── README.md
 ├── .gitignore
 │
-└── test files
+├── test_ai_insights.py
+├── test_gemini.py
+├── test_openai.py
+├── reviews.csv
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 ```
 
 ---
